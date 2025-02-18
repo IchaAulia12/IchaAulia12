@@ -32,6 +32,13 @@ I'm an IoT Developer passionate about Smart Farming and Smart Home solutions. Wi
 - **MAN 3 JEMBER** - Team Coach for WRO Indonesia (Aug 2024 - Sept 2024) and Robotics Extracurricular Coach (Sept 2024 - Oct 2024)
 - **Habibi Garden Nusantara** - IoT and Software Programmer (Internship)
 
+<p align="left">
+<a href="https://github.com/IchaAulia12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+</a>
+</p>
+
 ## 📫 Contact Me
 - Email: ichaaulia720@gmail.com
 - LinkedIn: [icha-aulia](https://www.linkedin.com/in/icha-aulia)
